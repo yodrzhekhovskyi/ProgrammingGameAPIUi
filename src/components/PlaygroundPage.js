@@ -126,7 +126,6 @@ export function PlaygroundPage() {
             <p style={{ color: 'orange' }}>Warnings: {result?.warnings }</p>
             <p>Stats: {result?.stats }</p>
             <p>Files: {result?.files }</p>
-            <p>Not LoggedIn In: {result?.notLoggedIn?.toString()}</p>
           </Col>
         </Row>
       </Container>
