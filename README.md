@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Case study project for presenting purposes of Programming Game API
+
 ## Available Scripts
 
 In the project directory, you can run:
